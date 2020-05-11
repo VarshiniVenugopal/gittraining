@@ -1,4 +1,4 @@
-#1bin/bash
+#!bin/bash
 #To Print the 1st 100 numbers fibonacci series in a file
 echo "Enter the Nth number in fibonacci series that you want to find:"
 read n
