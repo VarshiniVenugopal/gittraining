@@ -1,15 +1,2 @@
-# Team members of M&S
-    Varshini
-    Nivetha
-    Immanuel
-    Balaji
-    Valasa
-    Akshati
-    Sanchi
-
-
-
-
-## New KT session
-
-Conducted by *Kamalakannan*
+##Im varshini.
+I like to play chess and im a district player in chess
